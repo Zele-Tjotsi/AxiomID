@@ -1,0 +1,11 @@
+# AxiomID CODEOWNERS
+#
+# During the single-maintainer phase, the repository owner is responsible
+# for reviewing changes. This will evolve when additional contributors exist.
+
+* @Zele-Tjotsi
+
+/.github/ @Zele-Tjotsi
+/docs/security/ @Zele-Tjotsi
+/docs/threat-models/ @Zele-Tjotsi
+/infrastructure/ @Zele-Tjotsi
